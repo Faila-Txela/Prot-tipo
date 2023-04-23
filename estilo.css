@@ -1,0 +1,11 @@
+.titulo{
+   font-size: 50px;
+   font-weight: 900;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.txtRoxo{
+    color: rgb(195, 43, 226);
+}
+.txtVermelho{
+    color: #eea990;
+}
